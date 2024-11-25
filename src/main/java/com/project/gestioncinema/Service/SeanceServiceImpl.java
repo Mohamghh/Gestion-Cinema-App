@@ -22,7 +22,7 @@ public class SeanceServiceImpl implements SeanceService {
     @Autowired
     private SalleRepo salleRepo;
 
-    // 1. Create Seance
+
     @Override
     public Seance createSeance(Seance seance) {
 
