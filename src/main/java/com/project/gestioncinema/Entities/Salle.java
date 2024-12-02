@@ -19,7 +19,10 @@ public class Salle {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
     private int numeroSalle;
     private int capacitePlaces;
 }

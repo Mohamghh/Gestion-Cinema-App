@@ -21,6 +21,10 @@ public class Seance {
     private Long id;
     private LocalTime heureDebut;
     private LocalTime heureFin;
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
     @ManyToOne
     private Film film;
     @ManyToOne
